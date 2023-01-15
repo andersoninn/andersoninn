@@ -16,7 +16,7 @@ Atualmente estudo essas tecnolgias, a fim de seguir em uma nova área de atuaç�
 
 <div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.innocencio/ target:_blanck)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.innocencio/)
 [![Gmail](https://img.shields.io/badge/Gmail-373737?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoncarvalhoaic/)
 </div>
