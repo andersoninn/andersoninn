@@ -1,7 +1,7 @@
 
 
 ## Óla!! Eu sou o Anderson Carvalho, estudante de tecnologia!
-Atualmente estudo algumas tecnologias, a fim de seguir em uma nova área de atuação.
+Atualmente estudo essas tecnolgias, a fim de seguir em uma nova área de atuação.
 
 
 <div style="display: inline_block"><br>
