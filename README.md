@@ -1,8 +1,8 @@
 
 
-## Óla!! Eu sou o Anderson Carvalho, estudante de tecnologia!
-Atualmente estudo essas tecnolgias, a fim de seguir em uma nova área de atuação.
-
+## Óla!! Eu chamo Anderson Carvalho, brasileiro, atualmente vivendo em Porto - PT.
+Sou desenvolvedor [Front-End] e estudante de tecnologia!
+Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido com as tecnologias a baixo:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
