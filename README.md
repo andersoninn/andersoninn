@@ -1,7 +1,6 @@
 
 
-## Óla!! Eu chamo Anderson Carvalho, brasileiro, atualmente vivendo em Porto - PT.
-Sou desenvolvedor [Front-End] e estudante de tecnologia!
+## Óla!! Eu chamo Anderson Carvalho, desenvolvedor [Front-End] e estudante de tecnologia, 
 Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido com as tecnologias a baixo:
 
 <div style="display: inline_block"><br>
