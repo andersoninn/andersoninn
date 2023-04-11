@@ -1,6 +1,6 @@
 
 
-## Óla!! Eu chamo Anderson Carvalho, desenvolvedor [Front-End] e estudante de tecnologia, 
+## Óla!! Me chamo Anderson Carvalho, desenvolvedor [Front-End] e estudante de tecnologia, 
 Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido com as tecnologias a baixo:
 
 <div style="display: inline_block"><br>
