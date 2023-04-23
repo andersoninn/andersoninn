@@ -20,3 +20,6 @@ Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido co
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoncarvalhoaic/)
 </div>
 
+Esse é o projeto que estou desenvolvendo no momento: https://andersoninn.github.io/Project-Counter/
+Um programa para fazer de folta automatizada as contas da casa em que moro, levando em consideração que um primo veio estar conosco por um período para fazer faculdade.
+Espero que goste!
