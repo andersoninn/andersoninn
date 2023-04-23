@@ -25,3 +25,4 @@ Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido co
 <p>Espero que goste!</p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoninn&show_icons=true&theme=transparent)
