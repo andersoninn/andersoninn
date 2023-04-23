@@ -15,13 +15,11 @@ Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido co
 ## 
 
 <div>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.inn/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoncarvalhoaic/)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.inn/)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoncarvalhoaic/)
 </div>
 
-<div<
 <p> Esse é o projeto que estou desenvolvendo no momento: https://andersoninn.github.io/Project-Counter/ </p>
 <p> Um programa para fazer de folta automatizada as contas da casa em que moro, levando em consideração que um primo veio estar conosco por um período para fazer faculdade.</p>
 <p>Espero que goste!</p>
-</div>
+
