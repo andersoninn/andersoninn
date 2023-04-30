@@ -20,7 +20,8 @@ Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido co
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoncarvalhoaic/)
 </div>
 
-<p> Esse é o projeto que estou desenvolvendo no momento: (versão 1.0 - versao apenas para mobile) https://andersoninn.github.io/Project-Counter/ </p>
+<p> Esse é o projeto que estou desenvolvendo no momento: (versão 1.0 - versao costruída apenas para ser usada no mobile. A v2 virá com novo layout e novas funcionalidades)
+    https://andersoninn.github.io/Project-Counter/ </p>
 <p> Um programa para fazer de folta automatizada as contas da casa em que moro, levando em consideração que um primo veio estar conosco por um período para fazer faculdade.</p>
 <p>Espero que goste!</p>
 
