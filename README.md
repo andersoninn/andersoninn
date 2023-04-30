@@ -16,7 +16,7 @@ Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido co
 
 <div>
     
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.inn/ )target="_blank"
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.inn/target="_blank" )
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoncarvalhoaic/ target="_blank")
 </div>
 
