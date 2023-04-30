@@ -21,7 +21,7 @@ Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido co
 </div>
 
 <p> Esse é o projeto que estou desenvolvendo no momento: </p>
-   <p> (versão 1.0 - versao costruída apenas para ser usada no mobile. A v2 virá com novo layout e novas funcionalidades) </p>
+   <p> Versão 1.0 - Versão costruída apenas para ser usada no mobile. A V2 virá com novo layout e novas funcionalidades) </p>
    <p> https://andersoninn.github.io/Project-Counter/ </p>
 <p> Um programa para fazer de folta automatizada as contas da casa em que moro, levando em consideração que um primo veio estar conosco por um período para fazer faculdade.</p>
 <p>Espero que goste!</p>
