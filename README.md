@@ -1,6 +1,6 @@
 
 
-## Óla, Me chamo Anderson Carvalho!
+## Óla! Me chamo Anderson Carvalho!
 Sou programador de CNC, desenvolvedor [Front-End] e estudante de tecnologia, 
 Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido com as tecnologias a baixo:
 
