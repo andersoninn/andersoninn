@@ -20,8 +20,8 @@ I am currently working as a freelancer where I put into practice what I have lea
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoninn/)
 </div>
 
-<p> This is the project I am currently developing: </p>
-   <p> Version 1.0 - Version built only for mobile use. V2 will come with a new layout and new features) </p>
+<p> This is the project wich I am currently developing: </p>
+   <p> Version 1.0 - Version built only for mobile use. V2 will come with a new layout and new features </p>
    <p> https://andersoninn.github.io/Project-Counter/ </p>
 <p> A program to automate the bills of the house where I live, taking into account that a cousin came to stay with us for a period to do college.</p>
 <p>I hope you like it!</p>
