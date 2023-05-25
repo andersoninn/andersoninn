@@ -1,8 +1,8 @@
 
 
-## Óla! Me chamo Anderson Carvalho!
-Sou programador de CNC, desenvolvedor [Front-End] e estudante de tecnologia.
-Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido com as tecnologias a baixo:
+## Hello! My name is Anderson Carvalho!
+I'm a CNC programmer, developer [Front-End] and student of technology.
+I am currently working as a freelancer where I put into practice what I have learned with the technologies below:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,9 +20,9 @@ Atualmente atuo como freelancer onde coloco em prática o que tenho aprendido co
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoninn/)
 </div>
 
-<p> Esse é o projeto que estou desenvolvendo no momento: </p>
-   <p> Versão 1.0 - Versão costruída apenas para ser usada no mobile. A V2 virá com novo layout e novas funcionalidades) </p>
+<p> This is the project I am currently developing: </p>
+   <p> Version 1.0 - Version built only for mobile use. V2 will come with a new layout and new features) </p>
    <p> https://andersoninn.github.io/Project-Counter/ </p>
-<p> Um programa para fazer de folta automatizada as contas da casa em que moro, levando em consideração que um primo veio estar conosco por um período para fazer faculdade.</p>
-<p>Espero que goste!</p>
+<p> A program to automate the bills of the house where I live, taking into account that a cousin came to stay with us for a period to do college.</p>
+<p>I hope you like it!</p>
 
