@@ -1,8 +1,11 @@
 
 
 ## Hello! My name is Anderson Carvalho!
-I'm a CNC programmer, developer [Front-End] and student of technology.
-I am currently working as a freelancer where I put into practice what I have learned with the technologies below:
+As a former military professional, I excelled as the Secretary to the Director of Aircraft, securing the second position in my class. I made significant contributions in the Special Infantry Battalion of Galeão, leading critical peacekeeping missions and implementing operational regulations that continue to endure.
+
+Opting for a move to Portugal in pursuit of a life away from violence marked a significant turning point. Currently, I am dedicatedly studying programming to ensure a successful career transition, showcasing my commitment to promising challenges and continuous growth.
+
+Shall we grab a coffee and discuss how I can contribute to the team? I'm eager to share insights! ☕✨
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
