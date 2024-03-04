@@ -1,6 +1,6 @@
 
 
-## Hello! My name is Anderson Carvalho!
+## Anderson Carvalho!
 As a former military professional, I excelled as the Secretary to the Director of Aircraft, securing the second position in my class. I made significant contributions in the Special Infantry Battalion of Galeão, leading critical peacekeeping missions and implementing operational regulations that continue to endure.
 
 Opting for a move to Portugal in pursuit of a life away from violence marked a significant turning point. Currently, I am dedicatedly studying programming to ensure a successful career transition, showcasing my commitment to promising challenges and continuous growth.
