@@ -7,7 +7,7 @@ Opting for a move to Portugal in pursuit of a life away from violence marked a s
 
 Shall we grab a coffee and discuss how I can contribute to the team? I'm eager to share insights! ☕✨
 
-## Meus valores
+ ## Meus valores
 
 :hourglass: Disciplina <br/>
 :heart: Amor em conhecer e se relacionar com pessoas <br/>
@@ -15,7 +15,7 @@ Shall we grab a coffee and discuss how I can contribute to the team? I'm eager t
 
 Apaixondo por adquirir novos conhecimentos e solucionar problemas
 
-## Como eu Trabalho
+ ## Como eu Trabalho
 Durante toda minha carreira como militar, aprendi a identificar os problemas e criar um planejamento estratégico para alcancar os resultados esperados, por mais difíciais que sejam.
 Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, facilitando a execução e alcançando resultados que sejam verdadeiramente eficazes.
 
