@@ -1,11 +1,11 @@
 
 
 ## Anderson Carvalho!
-As a former military professional, I excelled as the Secretary to the Director of Aircraft, securing the second position in my class. I made significant contributions in the Special Infantry Battalion of Galeão, leading critical peacekeeping missions and implementing operational regulations that continue to endure.
+Ex-militar, integrante do Batalhão de Infantaria de Aeronáutica Especial do Rio de Janeiro, liderou missões críticas de manutenção da paz e escontas de autoridades.
 
-Opting for a move to Portugal in pursuit of a life away from violence marked a significant turning point. Currently, I am dedicatedly studying programming to ensure a successful career transition, showcasing my commitment to promising challenges and continuous growth.
+Optei por uma mudança para Portugal em busca de uma vida longe da violência o que foi um ponto de viragem significativo. Atualmente, dedico-me a estudar programação para assegurar uma transição de carreira bem sucedida, demonstrando o meu empenho em desafios promissores e crescimento contínuo.
 
-Shall we grab a coffee and discuss how I can contribute to the team? I'm eager to share insights! ☕✨
+Vamos tomar um café e discutir como posso contribuir para a equipa? Estou ansioso para compartilhar ideias! ☕✨
 
  ## Meus valores
 
