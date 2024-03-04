@@ -37,9 +37,9 @@ Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, faci
 ## Entre em contato:
 Telefone: +351 933 894 893
 Whatsapp: https://wa.me/351933864893
-<img align="center" alt="Figma" height="20" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg"> 
+<img align="center" alt="Figma" height="20" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" href:"https://mailto:andersoninnocencio17@gmail.com/"> 
 
-Email: https://mailto:andersoninnocencio17@gmail.com/
+Email: 
 
 <div>
     
