@@ -9,8 +9,8 @@ Shall we grab a coffee and discuss how I can contribute to the team? I'm eager t
 
 ## Meus valores
 :hourglass: Disciplina <br/>
-:heart: Amor em conhecer e se relacionar com pessoas
-:pray: Coragem para novos desafios
+:heart: Amor em conhecer e se relacionar com pessoas <br/>
+:pray: Coragem para novos desafios <br/> 
 
 Apaixondo por adquirir novos conhecimentos e solucionar problemas
 
