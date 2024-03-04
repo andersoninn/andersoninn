@@ -32,6 +32,8 @@ Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, faci
     <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">  
 </div>
 
+
+
 <div>
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.inn/)
