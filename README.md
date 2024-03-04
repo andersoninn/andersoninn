@@ -14,6 +14,11 @@ Shall we grab a coffee and discuss how I can contribute to the team? I'm eager t
 
 Apaixondo por adquirir novos conhecimentos e solucionar problemas
 
+## Como eu Trabalho
+Durante toda minha carreira como militar, aprendi a identificar os problemas e criar um planejamento estratégico para alcancar os resultados esperados, por mais difíciais que sejam.
+Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, facilitando a execução e alcançando resultados que sejam verdadeiramente eficazes.
+
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
