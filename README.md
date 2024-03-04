@@ -38,11 +38,8 @@ Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, faci
 Telefone: +351 933 894 893
 Whatsapp: https://wa.me/351933864893
 <a href:https://mailto:andersoninnocencio17@gmail.com/>
-<img align="center" alt="Figma" height="20" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg"> 
-</a>
-
-
-<img/>
+<img align="center" alt="Figma" height="20" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" /> 
+[![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.inn/)
 
 Email: 
 
