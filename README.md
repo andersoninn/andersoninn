@@ -8,6 +8,12 @@ Opting for a move to Portugal in pursuit of a life away from violence marked a s
 Shall we grab a coffee and discuss how I can contribute to the team? I'm eager to share insights! ☕✨
 
 ## Meus valores
+:hugs: Disciplina
+:heart: Amor em conhecer e se relacionar com pessoas
+:pray: Coragem para novos desafios
+
+Apaixondo por adquirir novos conhecimentos e solucionar problemas
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
