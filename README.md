@@ -22,7 +22,7 @@ Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, faci
 
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="50" width="60" style="margin-bottom: 20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+    <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
     <img align="center" alt="CSS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
     <img align="center" alt="Js" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
     <img align="center" alt="React" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
