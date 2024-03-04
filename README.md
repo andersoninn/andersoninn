@@ -20,7 +20,6 @@ Durante toda minha carreira como militar, aprendi a identificar os problemas e c
 Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, facilitando a execução e alcançando resultados que sejam verdadeiramente eficazes.
 
 
-
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
     <img align="center" alt="CSS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
@@ -33,16 +32,7 @@ Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, faci
     <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">  
 </div>
 
-
-## Entre em contato:
-Telefone: +351 933 894 893 <br/>
-Whatsapp: https://wa.me/351933864893 <br/>
-<img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg">  
-Email:mailto:andersoninnocencio17@gmail.com <br/>
-
-
 <div>
-    
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.inn/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoninn/)
 </div>
