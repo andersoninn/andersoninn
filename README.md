@@ -3,7 +3,7 @@
 ## Anderson Carvalho!
 Ex-militar, integrante do Batalhão de Infantaria de Aeronáutica Especial do Rio de Janeiro, liderou missões críticas de manutenção da paz e escontas de autoridades.
 
-Optei por uma mudança para Portugal em busca de uma vida longe da violência o que foi um ponto de viragem significativo. Atualmente, dedico-me a estudar programação para assegurar uma transição de carreira bem sucedida, demonstrando o meu empenho em desafios promissores e crescimento contínuo.
+Optei por uma mudança para Portugal em busca de uma vida longe da violência o que foi um ponto de viragem significativo. Atualmente, dedico-me a estudar programação e atuo como Freelancer nas horas vagas, para assegurar uma transição de carreira bem sucedida, demonstrando o meu empenho em desafios promissores e crescimento contínuo.
 
 Vamos tomar um café e discutir como posso contribuir para a equipa? Estou ansioso para compartilhar ideias! ☕✨
 
