@@ -34,9 +34,11 @@ Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, faci
 </div>
 
  ## Tecnologias que estou estudando
+ <div style="display: inline_block">
 <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
 <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
 <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+</div>
 
 
 ##
