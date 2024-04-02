@@ -20,7 +20,7 @@ Durante toda minha carreira como militar, aprendi a identificar os problemas e c
 Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, facilitando a execução e alcançando resultados que sejam verdadeiramente eficazes.
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
     <img align="center" alt="CSS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
     <img align="center" alt="Js" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
