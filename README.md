@@ -7,6 +7,9 @@ Optei por uma mudança para Portugal em busca de uma vida longe da violência, o
 
 Vamos tomar um café e discutir como posso contribuir para a equipa? Estou ansioso para compartilhar ideias! ☕✨
 
+Esse é o meu trabalho de maior relevância no momento:
+https://instituto-genesis.com/
+
  ## Meus valores
 
 :hourglass: Disciplina <br/>
