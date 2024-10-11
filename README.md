@@ -7,7 +7,7 @@ Há cinco anos, tomei a audaciosa decisão de me mudar para Portugal em busca de
 
 Vamos tomar um café e discutir como posso contribuir para a equipa? Estou ansioso para compartilhar ideias! ☕✨
 
-Aqui está o link para o meu protifólio: https://portfolio-andersoninn.vercel.app/
+Aqui está o link para o meu protifólio: https://portfolio-andersoninn.vercel.app/ </br>
 
 
 E esse é o meu trabalho de maior relevância no momento:</br>
