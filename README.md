@@ -7,12 +7,13 @@ Há cinco anos, tomei a audaciosa decisão de me mudar para Portugal em busca de
 
 Vamos tomar um café e discutir como posso contribuir para a equipa? Estou ansioso para compartilhar ideias! ☕✨
 
-Aqui o link para o meu protifólio: </br>
-https://portfolio-andersoninn.vercel.app/
+Aqui está o link para o meu protifólio: https://portfolio-andersoninn.vercel.app/
+
 
 E esse é o meu trabalho de maior relevância no momento:</br>
 
 #### Instituto Gênesis - https://instituto-genesis.com/ </br>
+
 Neste projeto, desenvolvi um CMS, Content Management System", personalizado que permite a gestão dinâmica e intuitiva do conteúdo do site. O site do Instituto Gênesis foi projetado para facilitar a navegação e o acesso às informações sobre suas iniciativas e programas. Com um design responsivo e uma interface amigável, o CMS que criei possibilita que a equipe do Instituto atualize e modifique o conteúdo de forma simples, garantindo uma comunicação sempre clara e eficaz com os usuários.
 
  ## Meus valores
