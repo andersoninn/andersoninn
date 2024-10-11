@@ -3,7 +3,7 @@
 ## Anderson Carvalho
 Ex-militar do Batalhão de Infantaria de Aeronáutica Especial no Rio de Janeiro, onde liderei missões críticas de manutenção da paz e escoltas de autoridades. Essa experiência me ensinou a importância da disciplina, do trabalho em equipe e da resolução de problemas sob pressão.
 
-Recentemente, tomei a audaciosa decisão de me mudar para Portugal em busca de uma vida mais tranquila e repleta de novas oportunidades. Hoje, estou mergulhado no mundo da programação, estudando e aplicando meus conhecimentos como freelancer nas horas vagas. Estou focado em uma transição de carreira bem-sucedida, abraçando desafios que me permitem crescer continuamente.
+Há cinco anos, tomei a audaciosa decisão de me mudar para Portugal em busca de uma vida longe da violência e repleta de novas oportunidades. Hoje, estou mergulhado no mundo da programação, estudando e aplicando meus conhecimentos como freelancer nas horas vagas. Estou focado em uma transição de carreira bem-sucedida, abraçando desafios que me permitem crescer continuamente.
 
 Vamos tomar um café e discutir como posso contribuir para a equipa? Estou ansioso para compartilhar ideias! ☕✨
 
