@@ -1,32 +1,32 @@
 
 
 ## Anderson Carvalho
-Ex-militar do Batalhão de Infantaria de Aeronáutica Especial no Rio de Janeiro, onde liderei missões críticas de manutenção da paz e escoltas de autoridades. Essa experiência me ensinou a importância da disciplina, do trabalho em equipe e da resolução de problemas sob pressão.
+I was a member of the Special Air Force Infantry Battalion in Rio de Janeiro, where I led critical peacekeeping missions and escorted authorities. This experience taught me the importance of discipline, teamwork and problem-solving under pressure.
 
-Há cinco anos, tomei a audaciosa decisão de me mudar para Portugal em busca de uma vida longe da violência e repleta de novas oportunidades. Hoje, estou mergulhado no mundo da programação, estudando e aplicando meus conhecimentos como freelancer nas horas vagas. Estou focado em uma transição de carreira bem-sucedida, abraçando desafios que me permitem crescer continuamente.
+Five years ago, I made the brave decision to move to Portugal in search of a life away from violence and full of new opportunities. Today, I'm immersed in the world of programming, studying and applying my knowledge as a freelancer in my spare time. I'm focused on a successful career transition, embracing challenges that allow me to grow continuously.
 
-Vamos tomar um café e discutir como posso contribuir para a equipa? Estou ansioso para compartilhar ideias! ☕✨
+Shall we have a coffee and discuss how I can contribute to the team? I look forward to sharing ideas! ☕✨
 
-Aqui está o link para o meu protifólio: https://portfolio-andersoninn.vercel.app/ </br>
+Here's the link to my portfolio: https://portfolio-andersoninn.vercel.app/ </br>
 
 
-E esse é o meu trabalho de maior relevância no momento:</br>
+And this is my most important job right now:</br>
 
 #### Instituto Gênesis - https://instituto-genesis.com/ </br>
 
-Neste projeto, desenvolvi um CMS, Content Management System", personalizado que permite a gestão dinâmica e intuitiva do conteúdo do site. O site do Instituto Gênesis foi projetado para facilitar a navegação e o acesso às informações sobre suas iniciativas e programas. Com um design responsivo e uma interface amigável, o CMS que criei possibilita que a equipe do Instituto atualize e modifique o conteúdo de forma simples, garantindo uma comunicação sempre clara e eficaz com os usuários.
+In this project, I developed a customized CMS (Content Management System) that allows dynamic and intuitive management of the site's content. The Instituto Gênesis website was designed to facilitate navigation and access to information about its initiatives and programs. With a responsive design and a user-friendly interface, the CMS I created allows the Institute's team to easily update and modify the content, ensuring clear and effective communication with users at all times.
 
- ## Meus valores
+ ## My values
 
-:hourglass: Disciplina <br/>
-:heart: Amor em conhecer e me relacionar com pessoas <br/>
-:pray: Coragem para novos desafios <br/> 
+:hourglass: Discipline  <br/>
+:heart: A love of meeting and relating to people <br/>
+:pray: Courage for new challenges <br/> 
 
-Apaixonado por adquirir novos conhecimentos e solucionar problemas.
+Passionate about acquiring new knowledge and solving problems.
 
- ## Como eu Trabalho
-Durante toda minha carreira como militar, aprendi a identificar os problemas e criar um planejamento estratégico para alcancar os resultados esperados, por mais difíciais que sejam.
-Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, facilitando a execução e alcançando resultados que sejam verdadeiramente eficazes.
+ ## How I work
+Throughout my career in the military, I have learned to identify problems and create a strategic plan to achieve the expected results, however difficult they may be.
+As a result, I find it very easy to break down large problems into smaller ones, making them easier to execute and achieving results that are truly effective.
 
 
 <div style="display: inline_block">
@@ -42,7 +42,7 @@ Com isso, tenho grande facilidade de dividir grandes problemas em pequenos, faci
     <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">  
 </div>
 
- ## Tecnologias que estou estudando
+ ## Technologies I'm studying
  <div style="display: inline_block">
 <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
 <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
