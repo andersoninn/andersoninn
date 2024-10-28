@@ -7,12 +7,12 @@ Five years ago, I made the brave decision to move to Portugal in search of a lif
 
 Shall we have a coffee and discuss how I can contribute to the team? I look forward to sharing ideas! ☕✨
 
-Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
+Here's the link to <strong style="text-decoration:none;">[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
 
 
 And this is my most important job right now:</br>
 
-#### [Instituto Gênesis](https://instituto-genesis.com/)</br>
+#### Instituto Gênesis - https://instituto-genesis.com/)</br>
 
 In this project, I developed a customized CMS (Content Management System) that allows dynamic and intuitive management of the site's content. The Instituto Gênesis website was designed to facilitate navigation and access to information about its initiatives and programs. With a responsive design and a user-friendly interface, the CMS I created allows the Institute's team to easily update and modify the content, ensuring clear and effective communication with users at all times.
 
