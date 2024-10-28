@@ -9,7 +9,7 @@ Shall we have a coffee and discuss how I can contribute to the team? I look forw
 
 Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
 
-
+</br>
 
 And this is my most important job right now:</br>
 
