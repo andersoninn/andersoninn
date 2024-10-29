@@ -28,7 +28,7 @@ Passionate about acquiring new knowledge and solving problems.
 Throughout my career in the military, I have learned to identify problems and create a strategic plan to achieve the expected results, however difficult they may be.
 As a result, I find it very easy to break down large problems into smaller ones, making them easier to execute and achieving results that are truly effective.
 
-## Technologies I master
+## Technologies I've mastered
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
     <img align="center" alt="CSS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
