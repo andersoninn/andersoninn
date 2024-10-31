@@ -9,25 +9,6 @@ Shall we have a coffee and discuss how I can contribute to the team? I look forw
 
 Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
 
-
-## And this is my most important job right now:</br>
-
-#### Instituto Gênesis - https://instituto-genesis.com/</br>
-
-In this project, I developed a customized CMS (Content Management System) that allows dynamic and intuitive management of the site's content. The Instituto Gênesis website was designed to facilitate navigation and access to information about its initiatives and programs. With a responsive design and a user-friendly interface, the CMS I created allows the Institute's team to easily update and modify the content, ensuring clear and effective communication with users at all times.
-
- ## My values
-
-:hourglass: Discipline  <br/>
-:heart: A love of meeting and relating to people <br/>
-:pray: Courage for new challenges <br/> 
-
-Passionate about acquiring new knowledge and solving problems.
-
- ## How I work
-Throughout my career in the military, I have learned to identify problems and create a strategic plan to achieve the expected results, however difficult they may be.
-As a result, I find it very easy to break down large problems into smaller ones, making them easier to execute and achieving results that are truly effective.
-
 ## Technologies I've mastered
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
