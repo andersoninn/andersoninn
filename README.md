@@ -9,7 +9,7 @@ Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong
 <span style="margin: 15 15px;">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andersoninn&theme=dark&hide_border=false) 
  </span>
-     <span>
+     <span style="margin: 15 15px;">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoninn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </span>
 <br />
