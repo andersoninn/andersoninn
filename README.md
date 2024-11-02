@@ -1,5 +1,3 @@
-
-
 ## Anderson Carvalho
 I was a member of the Special Air Force Infantry Battalion in Rio de Janeiro, where I led critical peacekeeping missions and escorted authorities. This experience taught me the importance of discipline, teamwork and problem-solving under pressure.
 
@@ -8,7 +6,7 @@ Five years ago, I made the brave decision to move to Portugal in search of a lif
 Shall we have a coffee and discuss how I can contribute to the team? I look forward to sharing ideas! ☕✨
 
 Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
-<span align="center">
+<span style="margin: 0 15px;">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andersoninn&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoninn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </span>
