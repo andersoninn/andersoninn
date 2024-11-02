@@ -8,7 +8,7 @@ Five years ago, I made the brave decision to move to Portugal in search of a lif
 Shall we have a coffee and discuss how I can contribute to the team? I look forward to sharing ideas! ☕✨
 
 Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
-<span style="display: inline_block">
+<span align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andersoninn&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoninn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </span>
