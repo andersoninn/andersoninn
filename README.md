@@ -10,7 +10,6 @@ Shall we have a coffee and discuss how I can contribute to the team? I look forw
 Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersoninn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ## Technologies I've mastered
 <div style="display: inline_block">
