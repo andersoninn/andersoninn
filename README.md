@@ -9,6 +9,8 @@ Shall we have a coffee and discuss how I can contribute to the team? I look forw
 
 Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ## Technologies I've mastered
 <div style="display: inline_block">
     <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
