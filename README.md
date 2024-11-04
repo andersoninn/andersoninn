@@ -24,7 +24,11 @@ Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong
     <img align="center" alt="NextJS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg"> 
     <img align="center" alt="Git" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
     <img align="center" alt="Github" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
-    <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">  
+    <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"> 
+    <br/>
+    <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
+
+    
 </div>
 
  ## Technologies I'm studying
