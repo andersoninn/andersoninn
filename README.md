@@ -26,14 +26,13 @@ Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong
     <img align="center" alt="Github" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
     <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"> 
     <br/>
+    <img align="center" alt="BootStrap" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
     <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"> 
-    <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
-    <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
-    <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
-    <img align="center" alt="JQuery" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
-    
-
-    https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg
+    <img align="center" alt="Java" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"> 
+    <img align="center" alt="SpringBoot" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> 
+    <img align="center" alt="Hibernate" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg"> 
+    <img align="center" alt="Vim" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg"> 
+    <img align="center" alt="Maven" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"> 
 </div>
 
  ## Technologies I'm studying
