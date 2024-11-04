@@ -24,6 +24,7 @@ Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong
     <img align="center" alt="Tailwind" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
     <img align="center" alt="NextJS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg"> 
     <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"> 
+    <br/>
     <img align="center" alt="Java" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"> 
     <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"> 
     <img align="center" alt="SpringBoot" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> 
