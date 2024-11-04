@@ -18,21 +18,20 @@ Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong
     <img align="center" alt="HTML" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
     <img align="center" alt="CSS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
     <img align="center" alt="Js" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+    <img align="center" alt="BootStrap" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
+    <img align="center" alt="TypeScript" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
     <img align="center" alt="React" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
     <img align="center" alt="Tailwind" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
-    <img align="center" alt="TypeScript" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
     <img align="center" alt="NextJS" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg"> 
-    <img align="center" alt="Git" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-    <img align="center" alt="Github" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
     <img align="center" alt="Figma" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"> 
-    <br/>
-    <img align="center" alt="BootStrap" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"> 
-    <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"> 
     <img align="center" alt="Java" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"> 
+    <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"> 
     <img align="center" alt="SpringBoot" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> 
     <img align="center" alt="Hibernate" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg"> 
     <img align="center" alt="Vim" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg"> 
-    <img align="center" alt="Maven" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"> 
+    <img align="center" alt="Maven" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Light.svg"> 
+    <img align="center" alt="Git" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+    <img align="center" alt="Github" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
 </div>
 
  ## Technologies I'm studying
