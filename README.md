@@ -7,13 +7,13 @@ Shall we have a coffee and discuss how I can contribute to the team? I look forw
 
 Here's the link to <strong>[my portfolio.](https://www.andersoninn.dev/)</strong> </br>
 
+<div style="display: inline_block">
  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=andersoninn&theme=dark&hide_border=false">
  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoninn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
  <br />
+ </div>
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=andersoninn&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoninn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br />
+
 
 
 ## Technologies I've mastered
